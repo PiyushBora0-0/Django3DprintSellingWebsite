@@ -1,4 +1,4 @@
-# Django3DprintSellingWebsite
+# 3D prints Selling Website
 
 website has 3 working pages
 
